@@ -1,0 +1,16 @@
+
+.reviewStars{
+    color: yellow  !important;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black !important;
+}
+.btn-primary {
+    color: #000;
+    background-color: #e40101;
+    border-color: #6b0303;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ff0303;
+    border-color: #6b0303;
+}
