@@ -69,5 +69,5 @@ function carregarDestaques(){
 }
 
 function openGit(){
-    window.open('https://github.com/tetration/','_blank');
+    window.open('https://github.com/tetration/Movie_Website_For_DIW_Assignment','_blank');
 }
